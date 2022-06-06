@@ -1,0 +1,17 @@
+tr.head { background-color: #eee; }
+tr.row1 { background-color: #EBF4FD; }
+tr.on   { background-color: #FFE4B5; }
+
+#submenu_my{ 
+	padding: 5px;
+	text-align: center;
+	background: #fff;
+	color: #303B4A;
+}
+#submenu_my a { 
+	color: #303B4A;
+        text-decoration: none;
+}
+#submenu_my a:hover { 
+        text-decoration: underline;
+}
